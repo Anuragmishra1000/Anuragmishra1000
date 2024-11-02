@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/learner_08" target="blank"><img src="https://img.shields.io/twitter/follow/learner_08?logo=twitter&style=for-the-badge" alt="learner_08" /></a> </p>
 
-- 🔭 I’m currently working on **DreamShop**
+- 🔭 I’m currently working on **Snapzioo**
 
 - 🌱 I’m currently learning **JAVA**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **Anuragmishra.08c@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Zsi0fr1RrHDeHH7dBZKh_rOtLmvuHljz/view](https://drive.google.com/file/d/1Zsi0fr1RrHDeHH7dBZKh_rOtLmvuHljz/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fkNXl9hHkMEq1SP700GHvC_5Vdc2QorN/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
