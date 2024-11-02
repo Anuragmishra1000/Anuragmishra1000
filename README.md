@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Snapzioo**
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **DBMS**
 
 - 💬 Ask me about **mongodb,express,react,nodejs**
 
