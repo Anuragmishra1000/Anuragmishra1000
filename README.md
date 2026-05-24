@@ -40,10 +40,6 @@ Building production-grade backend systems and AI-powered workflows for microfina
   <a href="https://leetcode.com/u/Anurag_mishra_08/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Anurag__mishra__08-FFA116?style=flat&logo=leetcode&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="mailto:Anuragmishra.08c@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Anuragmishra.08c-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
