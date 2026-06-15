@@ -41,9 +41,3 @@ Building production-grade backend systems and AI-powered workflows for microfina
     <img src="https://img.shields.io/badge/LeetCode-Anurag__mishra__08-FFA116?style=flat&logo=leetcode&logoColor=white" />
   </a>
 </p>
-
----
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=Anuragmishra1000&theme=default&hide_border=true" />
-</p>
